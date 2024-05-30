@@ -1,5 +1,5 @@
 # civilian
-This repo archives selected final projects of civilian teams in the course Introduction to Design Track 3 (a.k.a, Android App Development), which has been offered at the Faculty of Engineering, Kyoto Univerity of Advanced Science (KUAS) since 2020. Apps are classified using the [App Store Categories](https://developers.apptweak.com/reference/app-store-categories).
+This repo archives selected final projects from civilian teams in the course "Introduction to Design Track 3" (a.k.a, Android App Development), which has been offered at the Faculty of Engineering, Kyoto Univerity of Advanced Science (KUAS) since 2020. Current students are encouraged to expand and further develop these projects. Apps are classified using the [App Store Categories](https://developers.apptweak.com/reference/app-store-categories).
 
 * Education
   - [TaCop](https://github.com/ID3-finalProject-archive/civilian/blob/main/2022_TaCoP.aia)
