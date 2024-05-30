@@ -1,5 +1,5 @@
 # civilian
-This repo contains the final projects of civilian teams
+This repo contains the final projects of civilian teams. Apps are classified using the [App Store Categories](https://developers.apptweak.com/reference/app-store-categories).
 
 * Education
   - TaCop
