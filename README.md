@@ -4,7 +4,7 @@ This repo contains the final projects of civilian teams
 * Education
   - TaCop
   - TopicPro (suggest topics for conversation)
-* Entertainment
+* Games
   - OXgame
   - Rubiks
   - WerewolfGame
@@ -20,6 +20,8 @@ This repo contains the final projects of civilian teams
   - FITMATE
   - GymApp
   - SleepTimer
+* Lifestyle
+  - EcoUnite (track carbon footprint)
 * Productivity
   - StudyTi (avoid distraction during study)
   - AddNotes
